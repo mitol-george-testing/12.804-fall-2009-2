@@ -1,0 +1,46 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Atmospheric Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Oceanography"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ],
+    [
+      "Engineering",
+      "Ocean Engineering",
+      "Hydrodynamics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Thermodynamics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "0496733a-7542-d377-7abb-fa661c274c3b",
+      "c5a2a68f-9042-cb5b-47ff-8c95e2b50daa"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Large-scale Flow Dynamics Lab",
+  "course_description": "This course is a laboratory accompaniment to 12.803, Quasi-balanced Circulations in Oceans and Atmospheres. The subject includes analysis of observations of oceanic and atmospheric quasi-balanced flows, computational models, and rotating tank experiments. Student projects illustrate the basic principles of potential vorticity conservation and inversion, Rossby wave propagation, baroclinic instability, and the behavior of isolated vortices.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.804",
+  "learning_resource_types": [],
+  "title": "Course Metadata"
+}
